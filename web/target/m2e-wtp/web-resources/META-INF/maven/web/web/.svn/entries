@@ -1,0 +1,52 @@
+8
+
+dir
+3159
+svn://kanglin@svn.birdgame.cn/micoc/tools/kl-jenkins-javatest/web/target/m2e-wtp/web-resources/META-INF/maven/web/web
+svn://kanglin@svn.birdgame.cn
+
+
+
+2019-08-13T03:45:38.879488Z
+3154
+kanglin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3e17a894-52e1-488b-8749-b29aeb58de65
+
+pom.properties
+file
+
+
+
+
+2019-08-13T03:53:08.873000Z
+8a77ff6ccbd68c50e0a35a8c4669b570
+2019-08-13T03:45:38.879488Z
+3154
+kanglin
+
+pom.xml
+file
+
+
+
+
+2019-08-13T03:53:08.872000Z
+1880207a4aa019647dc7d9d9f07f4dbd
+2019-08-13T03:45:38.879488Z
+3154
+kanglin
+

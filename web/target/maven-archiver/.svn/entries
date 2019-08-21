@@ -1,0 +1,40 @@
+8
+
+dir
+3159
+svn://kanglin@svn.birdgame.cn/micoc/tools/kl-jenkins-javatest/web/target/maven-archiver
+svn://kanglin@svn.birdgame.cn
+
+
+
+2019-08-13T03:45:38.879488Z
+3154
+kanglin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3e17a894-52e1-488b-8749-b29aeb58de65
+
+pom.properties
+file
+
+
+
+
+2019-08-13T03:53:08.866000Z
+282368d15b6b23c50769732f076cc5a5
+2019-08-13T03:45:38.879488Z
+3154
+kanglin
+

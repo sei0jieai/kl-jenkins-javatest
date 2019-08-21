@@ -1,0 +1,34 @@
+8
+
+dir
+3159
+svn://kanglin@svn.birdgame.cn/micoc/tools/kl-jenkins-javatest/web/src/main
+svn://kanglin@svn.birdgame.cn
+
+
+
+2019-08-13T07:00:13.064038Z
+3157
+liubin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3e17a894-52e1-488b-8749-b29aeb58de65
+
+resources
+dir
+
+webapp
+dir
+

@@ -1,0 +1,46 @@
+8
+
+dir
+3159
+svn://kanglin@svn.birdgame.cn/micoc/tools/kl-jenkins-javatest/web/target/web
+svn://kanglin@svn.birdgame.cn
+
+
+
+2019-08-13T03:45:38.879488Z
+3154
+kanglin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3e17a894-52e1-488b-8749-b29aeb58de65
+
+META-INF
+dir
+
+WEB-INF
+dir
+
+index.jsp
+file
+
+
+
+
+2019-08-13T03:53:08.889000Z
+f102bfaf7d9258fa2f9962c19b5a1aa5
+2019-08-13T03:45:38.879488Z
+3154
+kanglin
+
