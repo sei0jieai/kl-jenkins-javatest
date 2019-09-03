@@ -117,7 +117,7 @@ Fire.prototype.draw = function(){
 	
 	this.grd = this.ctx.createRadialGradient( this.mouse.x, this.mouse.y - 200,200,this.mouse.x, this.mouse.y - 100,0 );
 	this.grd.addColorStop(0,"rgb( 15, 5, 2 )");
-	this.grd.addColorStop(1,"rgb( 30, 5, 2 )");
+	this.grd.addColorStop(1,"rgb( 320, 15, 2 )");
 	this.ctx.beginPath();
 	this.ctx.arc( this.mouse.x, this.mouse.y - 100, 200, 0, 2*Math.PI );
 	this.ctx.fillStyle= this.grd;
@@ -126,8 +126,8 @@ Fire.prototype.draw = function(){
 
 	this.ctx.font = "15em Amatic SC";
 	this.ctx.textAlign = "center";
-	this.ctx.strokeStyle = "rgb(50, 20, 0)";
-	this.ctx.fillStyle = "rgb(120, 10, 0)";
+	this.ctx.strokeStyle = "rgb(250, 20, 10)";
+	this.ctx.fillStyle = "rgb(20, 10, 100)";
 	this.ctx.lineWidth = 2;
 	this.ctx.strokeText("Fire",this.canvas.width/2, this.canvas.height * .72 );
 	this.ctx.fillText("Fire",this.canvas.width/2, this.canvas.height * .72 );	
