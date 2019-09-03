@@ -117,7 +117,11 @@ Fire.prototype.draw = function(){
 	
 	this.grd = this.ctx.createRadialGradient( this.mouse.x, this.mouse.y - 200,200,this.mouse.x, this.mouse.y - 100,0 );
 	this.grd.addColorStop(0,"rgb( 15, 5, 2 )");
+<<<<<<< HEAD
 	this.grd.addColorStop(1,"rgb( 320, 15, 2 )");
+=======
+	this.grd.addColorStop(1,"rgb( 30, 10, 2 )");
+>>>>>>> parent of ca37903... Update index.html
 	this.ctx.beginPath();
 	this.ctx.arc( this.mouse.x, this.mouse.y - 100, 200, 0, 2*Math.PI );
 	this.ctx.fillStyle= this.grd;
